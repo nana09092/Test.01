@@ -13,7 +13,7 @@
     [4.1. установка программ](./content.md/04_start01.md)
     
     [4.2. рабочий процесс](./content.md/04_start-02wflow.md)
-5. [Основные команды]
+5. [Основные команды](./content.md/05_main_commands.md)
 
     [5.1. config](./content.md/05_01_config.md)
 
